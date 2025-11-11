@@ -48,7 +48,7 @@ My journey in Computer Science has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div>
-<img src="C:\Users\willy\Downloads\CompTIA Security+ ce certificate (1).pdf"/>
+<img src="C:\Users\willy\Downloads\CompTIA Security+ ce certificate (1).pdf" alt="CompTIA Security+"/>
 
 </div>
 <!--
