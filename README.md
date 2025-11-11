@@ -15,12 +15,6 @@ My journey in Computer Science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -48,7 +42,7 @@ My journey in Computer Science has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div>
-<img src="CompTIA Security+ ce certificate (1).pdf" alt="CompTIA Security+"/>
+<img src="images/CompTIA Security+ ce certificate (1).pdf" alt="CompTIA Security+"/>
 
 </div>
 <!--
