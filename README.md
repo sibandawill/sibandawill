@@ -49,6 +49,6 @@ My journey in Computer Science has led me to develop a passion for cybersecurity
 
 ## Projects
 <div>
-<a href=https://github.com/sibandawill/VLAN-Segmentation>Cisco Router-on-a-Stick Lab<a/>
+<a href=https://github.com/sibandawill/VLAN-Segmentation>Cisco Router-on-a-Stick Lab<a/><br>
 <a href=https://github.com/sibandawill/ActiveDirectoryLab>Active Directory Lab with pfSense default Gateway<a/>
 <div/>
