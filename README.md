@@ -46,7 +46,8 @@ My journey in Computer Science has led me to develop a passion for cybersecurity
 <img src="images/" alt="CompTIA Network+ ce certificate.pdf" alt="CompTIA Network+"/>
 
 </div>
-<div>
+
 ## Projects
+<div>
 <a href=https://github.com/sibandawill/VLAN-Segmentation>Cisco Router-on-a-Stick Lab<a/>
 <div/>
