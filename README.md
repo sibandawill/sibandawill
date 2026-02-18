@@ -8,7 +8,7 @@ I am a current student with a strong interest in technology.
 ## Objective
 
 
-My journey in Computer Science has led me to develop a passion for cybersecurity. I am very eager to transition into this field.
+My journey in Computer Science has led me to develop a passion for IT. I am very eager to transition into this field.
 <!--
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -50,5 +50,6 @@ My journey in Computer Science has led me to develop a passion for cybersecurity
 ## Projects
 <div>
 <a href=https://github.com/sibandawill/VLAN-Segmentation>Cisco Router-on-a-Stick Lab<a/><br>
-<a href=https://github.com/sibandawill/ActiveDirectoryLab>Active Directory Lab with pfSense default Gateway<a/>
+<a href=https://github.com/sibandawill/ActiveDirectoryLab>Active Directory Lab with pfSense default Gateway<a/><br>
+<a href=https://github.com/sibandawill/ServiceDeskSimulation>Service Desk Ticketing Simulation<a/>
 <div/>
